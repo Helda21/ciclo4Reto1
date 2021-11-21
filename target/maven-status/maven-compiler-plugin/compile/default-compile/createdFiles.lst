@@ -1,0 +1,6 @@
+com\cuatroa\retouno\RetounoApplication.class
+com\cuatroa\retouno\UserCrudRepository.class
+com\cuatroa\retouno\User.class
+com\cuatroa\retouno\UserRepository.class
+com\cuatroa\retouno\UserService.class
+com\cuatroa\retouno\UserController.class
